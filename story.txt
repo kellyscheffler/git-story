@@ -1,0 +1,1 @@
+There once was a coder who wanted to keep track of their changes in code. To do this, she decided to use Git. One day, after lots of work she forgot to commit her changes and lost all of her work. Now she frequently commits her changes to Git. 
